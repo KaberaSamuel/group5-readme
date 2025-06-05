@@ -37,4 +37,4 @@ The Automated log management system, was a classroom activity. We did this as gr
 - **Terance Cyuzuzo**
 - **Samuel Kabera**
 
-You can checkout there github usernames in the contributors area
+You can checkout our github usernames in the contributors area
